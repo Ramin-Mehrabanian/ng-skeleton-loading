@@ -8,10 +8,18 @@
 
 #### Make beautiful, animated loading skeletons that automatically adapt to your app.
 
+## Links
+
+#### [Github Link -> ng skeleton loading](https://github.com/Ramin-Mehrabanian/ng-skeleton-loading)
+
+#### [NPM Link -> ng skeleton loading](https://www.npmjs.com/package/ng-skeleton-loading)
+
+#### [Medium Link -> ng skeleton loading](https://medium.com/@ramin.77.051/ng-skeleton-loading-883bdf67fb10)
+
 ## Install ![Ng-Skeleton-Loading](https://up.maralhost.com/imagef-7d122b29fcf33-png.html)
 
 ```
-npm install ng-skeleton-loading --save
+npm i ng-skeleton-loading --save
 ```
 
 ## Usage ![Ng-Skeleton-Loading](https://up.maralhost.com/imagef-23afb7e50f951-png.html)
