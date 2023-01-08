@@ -1,0 +1,100 @@
+p, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+h5 {
+    font-size: 1.25rem;
+}
+
+.d-flex {
+    display: flex !important;
+}
+
+.flex-column {
+    flex-direction: column !important;
+}
+
+.align-items-center {
+    align-items: center !important;
+}
+
+.align-items-start {
+    align-items: flex-start !important;
+}
+
+.border {
+    border: 2px solid #d8dbe0;
+}
+
+.p-3 {
+    padding: 1rem !important;
+}
+
+.rounded-3 {
+    border-radius: 0.5rem !important;
+}
+
+.w-mc {
+    width: min-content !important;
+}
+
+.gap-1 {
+    gap: 0.5rem !important;
+}
+
+.gap-2 {
+    gap: 1.5rem !important;
+}
+
+.gap-5 {
+    gap: 3rem !important;
+}
+
+.mt-1 {
+    margin-top: 0.5rem !important;
+}
+
+.exir-btn {
+  /*min-width: 134px;*/
+  height: 44px;
+  border-radius: 10px;
+  font-size: 16px;
+  padding: 0 16px;
+  white-space: nowrap;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  user-select: none;
+  transition: 0.2s;
+
+  & i {
+    font-size: 24px;
+  }
+
+  &:hover {
+    box-shadow: 0px 15px 30px 0px #00000014, 0px 10px 15px 0px #00000014, 0px 4px 10px 0px #00000014, 0px 2px 4px 0px #0000000f;
+  }
+
+  &:focus {
+    outline: none;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.08), 0px 8px 15px rgba(0, 0, 0, 0.08), 0px 15px 20px rgba(0, 0, 0, 0.08), 0px 30px 40px rgba(0, 0, 0, 0.08);
+  }
+
+  &.exir-btn-fill {
+    color: #fff;
+    background-color: #3d68ff;
+    border: 2px solid #3d68ff;
+  
+    &:hover {
+      background-color: #2e5cff;
+      border: 2px solid #2e5cff;
+    }
+  
+    &:focus {
+      border: 2px solid #2e5cff !important;
+    }
+  }
+}
+
+
