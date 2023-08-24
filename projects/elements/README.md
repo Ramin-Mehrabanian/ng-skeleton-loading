@@ -8,6 +8,20 @@
 
 #### Make beautiful, animated loading skeletons that automatically adapt to your app.
 
+## Dependencies ![Ng-Skeleton-Loading](https://up.maralhost.com/imagef-1b1914ff76cf1-png.html)
+
+&nbsp;
+
+#### The minimal supported versions are:
+
+| ng-skeleton-loading | Minimum Angular |
+| :--------------:    | :------:        |
+| 0.0.16              | >= 16           |
+| 0.0.14              | >= 9            |
+| 🤌                  | >= 2            |
+
+&nbsp;
+
 ## Links
 
 #### [Github Link -> ng skeleton loading](https://github.com/Ramin-Mehrabanian/ng-skeleton-loading)

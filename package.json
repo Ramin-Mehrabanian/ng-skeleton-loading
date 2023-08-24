@@ -1,6 +1,6 @@
 {
   "name": "ng-skeleton-loading",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "scripts": {
     "ng": "ng",
     "start": "ng serve --port 4500",
@@ -10,7 +10,7 @@
     "build-lib:ng-skeleton-loading": "ng build ng-skeleton-loading",
     "npm-pack:ng-skeleton-loading": "cd dist/ng-skeleton-loading && npm pack",
     "package:ng-skeleton-loading": "npm run build-lib:ng-skeleton-loading && npm run npm-pack:ng-skeleton-loading",
-    "publish": "npm run package:ng-skeleton-loading && cd dist/ng-skeleton-loading && npm publish --access=public --registry  https://registry.npmjs.org/",
+    "publish": "npm run package:ng-skeleton-loading && cd dist/ng-skeleton-loading && npm publish --access=public --registry https://registry.npmjs.org/",
     "unpublish": "npm unpublish ng-skeleton-loading --force --registry  https://registry.npmjs.org/"
   },
   "private": true,
